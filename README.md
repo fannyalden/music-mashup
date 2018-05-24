@@ -1,8 +1,9 @@
-# music-mashup
+# Music-mashup
 
-REST API 
+a REST API made with node.js
 
-# installation
+# Installation
 
 npm install
+
 node index.js
